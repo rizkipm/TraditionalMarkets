@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_camara" android:icon="@drawable/home4"
+            android:title="Beranda" />
+        <item android:id="@+id/nav_gallery" android:icon="@drawable/options36"
+            android:title="Daftar Pasar" />
+        <item android:id="@+id/nav_slideshow" android:icon="@drawable/money201"
+            android:title="Harga barang" />
+        <item android:id="@+id/nav_manage" android:icon="@drawable/gallery"
+            android:title="Galeri Pasar" />
+        <item android:id="@+id/ayewa" android:icon="@drawable/finance"
+            android:title="Kurs Rupiah"/>
+        <item android:id="@+id/nav_share" android:icon="@drawable/map32"
+            android:title="Peta Pasar" />
+
+
+    </group>
+
+    <item android:title="Intra Market">
+        <menu>
+
+            <item android:id="@+id/nav_send" android:icon="@android:drawable/ic_menu_send"
+                android:title="Tentang" />
+        </menu>
+    </item>
+
+</menu>

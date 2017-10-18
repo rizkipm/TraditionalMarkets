@@ -1,0 +1,93 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:background="#B2EBF2">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="INTRA MARKET"
+        android:id="@+id/textView2"
+        android:layout_marginTop="27dp"
+        android:textStyle="bold"
+        android:textColor="#00ACC1"
+        android:paddingBottom="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center" />
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:id="@+id/imageView4"
+        android:src="@drawable/logoo"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Muhammad Frizar Fadhillah"
+        android:id="@+id/textView4"
+        android:layout_alignBottom="@+id/imageView4"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="5dp"
+        android:textColor="#00BCD4"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Muhammad Arya Rizqi"
+        android:id="@+id/textView5"
+        android:layout_below="@+id/imageView4"
+        android:layout_centerHorizontal="true"
+        android:textColor="#00BCD4"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="SMK TI MADINATUL QUR&apos;AN"
+        android:id="@+id/textView6"
+        android:layout_below="@+id/textView5"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="7dp"
+        android:paddingTop="7dp"
+        android:textColor="#00ACC1"
+        android:textStyle="bold"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Santri Developer"
+        android:id="@+id/textView3"
+        android:gravity="center"
+        android:textColor="#00ACC1"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Version 1.0"
+        android:id="@+id/textView7"
+        android:layout_gravity="center_horizontal"
+        android:textSize="14dp"
+        android:gravity="center"
+        android:paddingTop="40dp"
+        android:textColor="#00BCD4" />
+
+</LinearLayout>

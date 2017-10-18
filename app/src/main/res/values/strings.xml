@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Intra Market</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="skip">Your Skip Intro</string>
+    <string name="a">Memberikan informasi seputar harga barang di pasar sehingga lebih memudahkan dalam berbelanja</string>
+    <string name="b">Memberikan informasi seputar kurs rupiah terhadap mata uang Dollar (Asing)</string>
+    <string name="c">Memberikan informasi harga-harga barang di pasar</string>
+    <string name="d">Menampilkan peta pasar dan memberikan route menuju pasar tersebut</string>
+    <string name="title_activity_harga_barang">HargaBarang</string>
+    <string name="title_activity_mingguan">Mingguan</string>
+    <string name="title_activity_galeri">Galeri</string>
+    <string name="text">Squid blog crucifix Marfa, consectetur vero placeat mixtape. Non seitan sriracha eu, do Banksy fashion axe cred qui vegan delectus consequat Helvetica mollit. XOXO gluten-free disrupt, gastropub officia cliche chillwave hella pop-up. Fixie swag raw denim, YOLO craft beer assumenda occupy veniam photo booth pug consectetur next level Portland tote bag +1. Mlkshk PBR aliquip placeat Wes Anderson.</string>
+    <string name="title">My Description</string>
+    <string name="context_menu">Context menu</string>
+    <string name="melayan">Alamat/telpon/fax pasar Jl. Raya Bangunsari  Pemilik/pengelola pasar
+Pasar Mejayan Baru dibawah naungan Dispenda Kab. Madiun, dan dikelola oleh Bapak Raswiyanto sebagai kepala pasar.
+    Alamat/telpon/fax pemilik/pengelola pasar
+
+    Jl. Alun-Alun Utara No.4
+    Luas Area 15.219 m2 Jumlah Los 554 Jumlah Kios 684 Hari pasar dan waktu operasional 7 hari, buka pagi sampai sore Jenis barang yg dijual Konveksi, makanan, sayuran, bahan pokok Akses Transportasi Akses menuju Pasar Mejayan Baru dapat dilalui oleh kendaraan roda empat dan roda dua. Perkerasan jalan adalah aspal dalam kondisi baik.
+ Konstruksi Bangunan Konstruksi bangunan Pasar Mejayan Baru adalah permanen dengan dua lantai. Pasar Mejayan Baru termasuk dalam jenis pasar semi modern Fasilitas
+Fasilitas yang terdapat di Pasar Mejayan baru adalah musola, TPS, toilet, hydrant, saluran drainase terbuka, tempat parkir, kantor pasar, kantor fasilitas pembiayaan, ruang serba guna, pos ukur ulang, area bongkar muat, dan pos keamanan.
+
+
+</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menuharga">Menuharga</string>
+
+</resources>
